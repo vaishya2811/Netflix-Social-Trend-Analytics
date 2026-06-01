@@ -170,12 +170,14 @@ This dashboard helps stakeholders:
 ## 📷 Dashboard Preview
 
 ### Netflix Analytics Dashboard
+<img width="1600" height="893" alt="page1 BI" src="https://github.com/user-attachments/assets/eff94e8e-aba2-41a7-b77d-fe3867d15016" />
 
-(Add Screenshot Here)
+
 
 ### IMDb Analytics Dashboard
 
-(Add Screenshot Here)
+<img width="1600" height="893" alt="WhatsApp Image 2026-06-01 at 4 53 55 PM" src="https://github.com/user-attachments/assets/64f6acb2-00b2-473f-ad4d-b0897185a478" />
+
 
 ---
 
